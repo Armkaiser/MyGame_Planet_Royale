@@ -1,0 +1,16 @@
+{
+"companyName": "Sanser Studio",
+"productName": "Planet Royal Multiplayer",
+"productVersion": "0.1",
+"dataUrl": "Space_Shooter_Build_HTML.data.unityweb",
+"wasmCodeUrl": "Space_Shooter_Build_HTML.wasm.code.unityweb",
+"wasmFrameworkUrl": "Space_Shooter_Build_HTML.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
